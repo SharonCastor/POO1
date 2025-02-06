@@ -3,7 +3,7 @@ from math import sqrt
 from math import pi
 from math import tan
 
-class Figuras:
+class figura:
     def cal_perimetro(numLados, lado):
         perimetro = numLados * lado
         return perimetro
@@ -18,10 +18,6 @@ class Figuras:
         else: area = 0
         return area
     
-    def resultado(numLados, lado):
-        numLados = int(input("Ingrese el numero de lados de la figura: "))
-        lado = float(input("Ingrese el tamaño de los lados: "))
-        return numLados
 
 
 
