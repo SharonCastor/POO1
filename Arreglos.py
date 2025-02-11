@@ -1,20 +1,19 @@
 #Arreglos
-class Estudiante:
-    def __init__ (self, nombre, edad):
-        self.nombre = nombre
-        self.edad = edad
+class lista:
+  def __init__(self):
+    self.arregloLista =[2,3,5]
 
-        def mostrar_info(self):
-            print(f"Nombre:{self.nombre}, Edad: {self.edad"})
+    def eliminar(self, indice,v):
+      if 0 <= inidce < len(self.arregloLista):
+      self.arregloLista.pop(indice,v)
+      print(f"El nuevo arreglo es {self.arregloLista}")
 
-estudiantes = [
-    Estudiante = ("Alex", 19),
-    Estudiante = ("Sharon",18)
-    Estudiante = ("Fer",21)
-]
+      else:
+        print("indice inexistente")
+lista =lista()
+inidce=int(input("ingrese el indice a remover"))
+lista.eliminar(inidce)
 
-for estudiante in estudiantes:
-    estudiante.mostrar_info()
 
 
 

@@ -15,6 +15,6 @@ class Estudiante(Persona):
     def mostrar_grado(self):
         print(f"Grado: {self.grado}")
 
-estudiante = Estudiante("Sharon","19", "2do")
+estudiante = Estudiante("Sharon","18", "2do")
 estudiante.mostrar_datos()
 estudiante.mostrar_grado()
