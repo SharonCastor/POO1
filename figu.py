@@ -1,12 +1,12 @@
 import math
 
-lados = float(input("Que lados tiene tu figura \n"))
-distancia= float(input("que distancia tiene los lados de tu figura \n"))
+lados = float(input("¿Cuántos lados tiene tu figura? \n"))
+distancia= float(input("¿Cuánto mide cada lado? \n"))
 
 class figura:
     def area(lados,distancia):
         if lados <= 2 :
-            print("area: no es posible generar esta el area figura")
+            print("Esta figura no existe")
             exit()
         elif lados == 3:
             mitadl=distancia/2
