@@ -15,7 +15,7 @@ class Lista:
 lista = Lista()
 
 # Pedir el índice al usuario y eliminar el elemento
-indice = int(input("Ingrese el índice a remover: "))
+indice = int(input("Ingresa el índice a remover: "))
 lista.eliminar(indice)
 
 
