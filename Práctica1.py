@@ -1,3 +1,4 @@
+#Figuras
 import math
 
 lados = float(input("¿Cuántos lados tiene tu figura? \n"))
