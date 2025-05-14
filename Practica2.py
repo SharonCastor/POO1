@@ -54,3 +54,16 @@ print("Área del cuadrado:", cuadrado.calcular_area())
 print("Perímetro del cuadrado:", cuadrado.calcular_perimetro())
 print("Área del pentágono:", pentagono.calcular_area())
 print("Perímetro del pentágono:", pentagono.calcular_perimetro())
+
+
+from flask import Flask
+
+app = Flask (__name__)
+
+@app.route('/')
+def hello_world():
+    return 'Hello world'
+
+if __name__ == '__main__':
+    ALLOWED_IP = '10.2.80.150'
+    app.run(host = '0.0.0.0', port = 5000)

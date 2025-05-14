@@ -1,2 +1,1 @@
-# Prueba_POO
-sharon hola
+# Primer repositorio
