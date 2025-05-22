@@ -2,5 +2,5 @@
 # Primer repositorio
 # Prácticas POO1
 
-- [Práctica 1](Práctica1.md)
-- [Práctica 2](Práctica2.md)
+- [Práctica 1](Práctica1.py)
+- [Práctica 2](Práctica2.py)
