@@ -1,4 +1,4 @@
-# 💻✨ Prácticas POO 1 – Programación Orientada a Objetos 
+# 💻 Prácticas POO 1 – Programación Orientada a Objetos 
 
 👩‍💻 **Autora:** Sharon Alessandra Castor Vaquera  
 📚 **Materia:** Programación Orientada a Objetos I  
@@ -27,7 +27,5 @@
 ---
 
 ✨ ¡Gracias por visitar este repositorio!  
-Cada línea de código, error corregido y práctica completada forma parte de mi aprendizaje y dedicación como estudiante.
-Espero que el contenido aquí compartido te sea útil, interesante o te inspire a seguir aprendiendo también 🚀
   
-— **Sharon Alessandra Castor Vaquera** <3
+— **Sharon Alessandra Castor Vaquera <3**
