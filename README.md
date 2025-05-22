@@ -1,8 +1,7 @@
 
-# Primer repositorio
 # Prácticas POO1
 
-# 📚 Índice de Prácticas
+**📚 Índice de Prácticas**
 
 - [Práctica 1](Práctica1/)
 - [Práctica 2](Práctica2/)
