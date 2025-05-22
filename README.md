@@ -2,7 +2,7 @@
 # Primer repositorio
 # Prácticas POO1
 
-# Índice de Prácticas
+# 📚 Índice de Prácticas
 
 - [Práctica 1](Práctica1/)
 - [Práctica 2](Práctica2/)
@@ -19,3 +19,7 @@
 - [Práctica 14](Práctica14/)
 - [Práctica 15](Práctica15/)
 - [Práctica 16](Práctica16/)
+
+✨ *Gracias por visitar mi repositorio.*
+
+— **Sharon Alessandra Castor Vaquera**
